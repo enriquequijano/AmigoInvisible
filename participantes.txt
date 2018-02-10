@@ -3,7 +3,7 @@ E0002 # Beatriz Fernández Amador#
 E0003 # Carlos Feal Bardanca# 
 E0004 # Diana Martínez Formoso # E0001
 E0005 # Eduardo García Andrade# 
-E0006 # Felicia Jiménez Marcote # E0002,E0003
+E0006 # Felicia Jiménez Marcote # E0002
 E0007 # Gonzalo Rodríguez Antelo# 
 E0008 # Herminia Suárez Doval# 
 E0009 # Ignacio Cendán Pascual# 
